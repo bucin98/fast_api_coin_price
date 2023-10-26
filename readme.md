@@ -11,7 +11,7 @@
 
    ```bash
    git clone https://github.com/bucin98/fast_api_coin_price
-   cd repository
+   cd fast_api_coin_price
    ```
 
 2. Создайте файл `.env` в корневом каталоге проекта и укажите необходимые переменные окружения. Например:
